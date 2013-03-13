@@ -7,3 +7,5 @@ I write this tool in 2011-03-05 15:50:56 +0800. Because vmware player can not ru
 
 And I use putty login:)
 
+Release: https://code.google.com/p/vmprun/downloads/list
+
