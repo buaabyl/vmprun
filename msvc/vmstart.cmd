@@ -1,0 +1,1 @@
+vmprun D:\VMWARE\debian6-vmplayer3\debian6.vmx
